@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 71890f51b04bfb2766550bf1852e312e3e9dc622 Jack <jwi182@uclive.ac.nz> 1715072067 +1200	clone: from https://eng-git.canterbury.ac.nz/enel373-2024/WedGroup15
+71890f51b04bfb2766550bf1852e312e3e9dc622 2039754ef4579ad44b6b1d1f678674605fb613df Jack <jwi182@uclive.ac.nz> 1715072215 +1200	commit: AVG MAX MIN working finally with a large delay after select alu, shortening this causes unknown behaviour
+2039754ef4579ad44b6b1d1f678674605fb613df 1a9d16dfecce4b42f57754604cc5544b82845938 Jack <jwi182@uclive.ac.nz> 1715072267 +1200	commit: AVG MAX MIN working finally with a large delay after select alu, shortening this causes unknown behaviour
+1a9d16dfecce4b42f57754604cc5544b82845938 ee7bfec1e89616e9451cb6127acbbace351d1241 Jack <jwi182@uclive.ac.nz> 1715087058 +1200	commit: PRNG working in sim, extended loop delay to get ALU to work again, added t_long and running just have to time the warnings
+ee7bfec1e89616e9451cb6127acbbace351d1241 b63cac51280c3f1e9113f93691b8a94ed39b12d4 Jack <jwi182@uclive.ac.nz> 1715423312 +1200	pull: Fast-forward
+b63cac51280c3f1e9113f93691b8a94ed39b12d4 354f5c13af7e3c3aab5de45d3325eb75e2a30a6c Jack <jwi182@uclive.ac.nz> 1715431795 +1200	commit: Clean up code and fix random numbers timing decimals, now eveverything working in simulation, write headers for every file and nice comments, all done now
+354f5c13af7e3c3aab5de45d3325eb75e2a30a6c 2cc9fd95940d863a35d24bcb83e2b5776b267d7d Jack <jwi182@uclive.ac.nz> 1715432124 +1200	commit: Add constraints file to repo
+2cc9fd95940d863a35d24bcb83e2b5776b267d7d 82349fedaf76e7ee6e5c499b2c2786df29d30125 Jack <jwi182@uclive.ac.nz> 1715432136 +1200	pull: Merge made by the 'ort' strategy.
+82349fedaf76e7ee6e5c499b2c2786df29d30125 34ca1cd31b8b4dbee8d408b65fad7079bcce6c2c Jack <jwi182@uclive.ac.nz> 1715815433 +1200	commit: upload tb file late sorry
